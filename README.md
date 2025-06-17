@@ -66,6 +66,8 @@
                                                         +---------------------+
 ```
 
+<img src="/docs/assets/iot-sysmte-architect.png" width="60%" height="60%" title="아키텍트" alt="아키텍트"></img>
+
 ---
 
 ## 4. 각 컴포넌트별 역할 및 설명
