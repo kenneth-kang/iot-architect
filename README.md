@@ -66,7 +66,7 @@
                                                         +---------------------+
 ```
 
-<img src="/docs/assets/iot-sysmte-architect.png" width="60%" height="60%" title="아키텍트" alt="아키텍트"></img>
+<img src="/docs/assets/iot-sysmte-architect.png" width="100%" height="100%" title="아키텍트" alt="아키텍트"></img>
 
 ---
 
